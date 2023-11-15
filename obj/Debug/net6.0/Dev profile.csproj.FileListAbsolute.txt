@@ -1,0 +1,30 @@
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\Dev profile.staticwebassets.runtime.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\Dev profile.exe
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\Dev profile.deps.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\Dev profile.runtimeconfig.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\Dev profile.dll
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\bin\Debug\net6.0\Dev profile.pdb
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.RazorAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.RazorAssemblyInfo.cs
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.Dev profile.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.Dev profile.props
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dev profile.props
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dev profile.props
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\scopedcss\bundle\Dev profile.styles.css
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\scopedcss\projectbundle\Dev profile.bundle.scp.css
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.dll
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\refint\Dev profile.dll
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.pdb
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\Dev profile.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Succeed_Dev Decagon\Projects\My_Portfolio\My_Portfolio\obj\Debug\net6.0\ref\Dev profile.dll
